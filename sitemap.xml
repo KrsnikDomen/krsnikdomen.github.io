@@ -1,14 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://example.com/some-article/</loc>
+            <loc>https://krsnikdomen.github.io/some-article/</loc>
             
                 <lastmod>2017-09-24</lastmod>
             
         </url>
     
         <url>
-            <loc>https://example.com/some-other-article/</loc>
+            <loc>https://krsnikdomen.github.io/some-other-article/</loc>
             
                 <lastmod>2017-09-25</lastmod>
             
@@ -16,7 +16,7 @@
     
     
         <url>
-            <loc>https://example.com/</loc>
+            <loc>https://krsnikdomen.github.io/</loc>
         </url>
     
     
